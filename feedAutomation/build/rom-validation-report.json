@@ -1,0 +1,4676 @@
+{
+  "timestamp": "2025-07-21T01:56:37.328Z",
+  "summary": {
+    "total": 1457,
+    "valid": 524,
+    "invalid": 933,
+    "successRate": 35.9643102264928
+  },
+  "invalidUrls": [
+    {
+      "path": "categories[1].items[0].props.rom",
+      "url": "https://archive.org/download/nes-roms/1942%20%28Japan%2C%20USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[2].props.rom",
+      "url": "https://archive.org/download/nes-roms/3-D%20WorldRunner%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[5].props.rom",
+      "url": "https://archive.org/download/nes-roms/Addams%20Family%2C%20The%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[3].props.rom",
+      "url": "https://archive.org/download/nes-roms/8%20Eyes%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[1].props.rom",
+      "url": "https://archive.org/download/nes-roms/1943%20-%20The%20Battle%20of%20Midway%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[4].props.rom",
+      "url": "https://archive.org/download/nes-roms/Abadox%20-%20The%20Deadly%20Inner%20War%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[10].props.rom",
+      "url": "https://archive.org/download/nes-roms/Adventure%20Island%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[8].props.rom",
+      "url": "https://archive.org/download/nes-roms/Adventure%20Island%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[9].props.rom",
+      "url": "https://archive.org/download/nes-roms/Adventure%20Island%203%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[6].props.rom",
+      "url": "https://archive.org/download/nes-roms/Advanced%20Dungeons%20%26%20Dragons%20-%20Dragons%20of%20Flame%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[7].props.rom",
+      "url": "https://archive.org/download/nes-roms/Advanced%20Dungeons%20%26%20Dragons%20-%20DragonStrike%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[12].props.rom",
+      "url": "https://archive.org/download/nes-roms/Alfred%20Chicken%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[14].props.rom",
+      "url": "https://archive.org/download/nes-roms/Alien%20Syndrome%20%28USA%29%20%28Unl%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[13].props.rom",
+      "url": "https://archive.org/download/nes-roms/Alien%203%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[11].props.rom",
+      "url": "https://archive.org/download/nes-roms/Aladdin%20%28Europe%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[15].props.rom",
+      "url": "https://archive.org/download/nes-roms/Alpha%20Mission%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[19].props.rom",
+      "url": "https://archive.org/download/nes-roms/Back%20to%20the%20Future%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[16].props.rom",
+      "url": "https://archive.org/download/nes-roms/Arkanoid%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[20].props.rom",
+      "url": "https://archive.org/download/nes-roms/Back%20to%20the%20Future%20Part%20II%20%26%20III%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[18].props.rom",
+      "url": "https://archive.org/download/nes-roms/Attack%20of%20the%20Killer%20Tomatoes%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[17].props.rom",
+      "url": "https://archive.org/download/nes-roms/Arkanoid%20II%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[23].props.rom",
+      "url": "https://archive.org/download/nes-roms/Batman%20-%20Return%20of%20the%20Joker%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[24].props.rom",
+      "url": "https://archive.org/download/nes-roms/Batman%20Returns%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[21].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bad%20Dudes%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[22].props.rom",
+      "url": "https://archive.org/download/nes-roms/Batman%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[25].props.rom",
+      "url": "https://archive.org/download/nes-roms/Battletoads%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[27].props.rom",
+      "url": "https://archive.org/download/nes-roms/Beetlejuice%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[30].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bomberman%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[29].props.rom",
+      "url": "https://archive.org/download/nes-roms/Blaster%20Master%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[28].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bionic%20Commando%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[26].props.rom",
+      "url": "https://archive.org/download/nes-roms/Battletoads-Double%20Dragon%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[34].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bram%20Stoker%27s%20Dracula%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[32].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bonk%27s%20Adventure%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[33].props.rom",
+      "url": "https://archive.org/download/nes-roms/Boulder%20Dash%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[35].props.rom",
+      "url": "https://archive.org/download/nes-roms/BreakThru%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[31].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bomberman%20II%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[38].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bucky%20O%27Hare%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[40].props.rom",
+      "url": "https://archive.org/download/nes-roms/BurgerTime%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[36].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bubble%20Bobble%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[39].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bugs%20Bunny%20Crazy%20Castle%2C%20The%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[37].props.rom",
+      "url": "https://archive.org/download/nes-roms/Bubble%20Bobble%20Part%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[43].props.rom",
+      "url": "https://archive.org/download/nes-roms/Castlevania%20II%20-%20Simon%27s%20Quest%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[42].props.rom",
+      "url": "https://archive.org/download/nes-roms/Castlevania%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[45].props.rom",
+      "url": "https://archive.org/download/nes-roms/Chip%20%27n%20Dale%20-%20Rescue%20Rangers%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[44].props.rom",
+      "url": "https://archive.org/download/nes-roms/Castlevania%20III%20-%20Dracula%27s%20Curse%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[41].props.rom",
+      "url": "https://archive.org/download/nes-roms/Captain%20America%20and%20the%20Avengers%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[48].props.rom",
+      "url": "https://archive.org/download/nes-roms/Cobra%20Command%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[49].props.rom",
+      "url": "https://archive.org/download/nes-roms/Cobra%20Triangle%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[50].props.rom",
+      "url": "https://archive.org/download/nes-roms/Commando%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[47].props.rom",
+      "url": "https://archive.org/download/nes-roms/Cliffhanger%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[46].props.rom",
+      "url": "https://archive.org/download/nes-roms/City%20Connection%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[51].props.rom",
+      "url": "https://archive.org/download/nes-roms/Conan%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[53].props.rom",
+      "url": "https://archive.org/download/nes-roms/Contra%20Force%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[55].props.rom",
+      "url": "https://archive.org/download/nes-roms/Darkman%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[52].props.rom",
+      "url": "https://archive.org/download/nes-roms/Contra%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[54].props.rom",
+      "url": "https://archive.org/download/nes-roms/Crystalis%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[57].props.rom",
+      "url": "https://archive.org/download/nes-roms/Defender%20II%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[60].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dig%20Dug%20II%20-%20Trouble%20in%20Paradise%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[59].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dig%20Dug%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[56].props.rom",
+      "url": "https://archive.org/download/nes-roms/Darkwing%20Duck%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[58].props.rom",
+      "url": "https://archive.org/download/nes-roms/Die%20Hard%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[63].props.rom",
+      "url": "https://archive.org/download/nes-roms/Donkey%20Kong%20Classics%20%28USA%2C%20Europe%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[62].props.rom",
+      "url": "https://archive.org/download/nes-roms/Donkey%20Kong%203%20%28World%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[61].props.rom",
+      "url": "https://archive.org/download/nes-roms/Donkey%20Kong%20%28USA%29%20%28GameCube%20Edition%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[64].props.rom",
+      "url": "https://archive.org/download/nes-roms/Donkey%20Kong%20Jr.%20%28USA%29%20%28GameCube%20Edition%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[65].props.rom",
+      "url": "https://archive.org/download/nes-roms/Double%20Dragon%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[69].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dragon%20Quest%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[66].props.rom",
+      "url": "https://archive.org/download/nes-roms/Double%20Dragon%20II%20-%20The%20Revenge%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[70].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dragon%20Quest%20II%20-%20Akuryou%20no%20Kamigami%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[67].props.rom",
+      "url": "https://archive.org/download/nes-roms/Double%20Dragon%20III%20-%20The%20Sacred%20Stones%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[68].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dr.%20Mario%20%28Japan%2C%20USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[75].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dragon%20Warrior%20III%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[71].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dragon%20Quest%20III%20-%20Soshite%20Densetsu%20e...%20%28Japan%29%20%28Rev%20B%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[72].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dragon%20Quest%20IV%20-%20Michibikareshi%20Monotachi%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[74].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dragon%20Warrior%20II%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[73].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dragon%20Warrior%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[77].props.rom",
+      "url": "https://archive.org/download/nes-roms/DuckTales%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[79].props.rom",
+      "url": "https://archive.org/download/nes-roms/Excitebike%20%28Japan%2C%20USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[76].props.rom",
+      "url": "https://archive.org/download/nes-roms/Dragon%20Warrior%20IV%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[78].props.rom",
+      "url": "https://archive.org/download/nes-roms/DuckTales%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[80].props.rom",
+      "url": "https://archive.org/download/nes-roms/F-15%20Strike%20Eagle%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[82].props.rom",
+      "url": "https://archive.org/download/nes-roms/Fist%20of%20the%20North%20Star%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[85].props.rom",
+      "url": "https://archive.org/download/nes-roms/G.I.%20Joe%20-%20The%20Atlantis%20Factor%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[81].props.rom",
+      "url": "https://archive.org/download/nes-roms/Fire%20%27n%20Ice%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[84].props.rom",
+      "url": "https://archive.org/download/nes-roms/G.I.%20Joe%20-%20A%20Real%20American%20Hero%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[83].props.rom",
+      "url": "https://archive.org/download/nes-roms/Friday%20the%2013th%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[86].props.rom",
+      "url": "https://archive.org/download/nes-roms/Galaga%20%28Europe%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[89].props.rom",
+      "url": "https://archive.org/download/nes-roms/Gauntlet%20II%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[88].props.rom",
+      "url": "https://archive.org/download/nes-roms/Gauntlet%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[90].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ghosts%27n%20Goblins%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[87].props.rom",
+      "url": "https://archive.org/download/nes-roms/Gargoyle%27s%20Quest%20II%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[95].props.rom",
+      "url": "https://archive.org/download/nes-roms/Home%20Alone%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[92].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ghostbusters%20II%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[93].props.rom",
+      "url": "https://archive.org/download/nes-roms/Gradius%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[91].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ghostbusters%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[94].props.rom",
+      "url": "https://archive.org/download/nes-roms/Gremlins%202%20-%20The%20New%20Batch%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[98].props.rom",
+      "url": "https://archive.org/download/nes-roms/Hunt%20for%20Red%20October%2C%20The%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[99].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ice%20Climber%20%28USA%2C%20Europe%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[97].props.rom",
+      "url": "https://archive.org/download/nes-roms/Hook%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[96].props.rom",
+      "url": "https://archive.org/download/nes-roms/Home%20Alone%202%20-%20Lost%20in%20New%20York%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[100].props.rom",
+      "url": "https://archive.org/download/nes-roms/Indiana%20Jones%20and%20the%20Last%20Crusade%20%28USA%29%20%28UBI%20Soft%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[105].props.rom",
+      "url": "https://archive.org/download/nes-roms/Jungle%20Book%2C%20The%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[101].props.rom",
+      "url": "https://archive.org/download/nes-roms/Indiana%20Jones%20and%20the%20Temple%20of%20Doom%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[102].props.rom",
+      "url": "https://archive.org/download/nes-roms/Wizards%20%26%20Warriors%20II%20-%20iIronSword%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[104].props.rom",
+      "url": "https://archive.org/download/nes-roms/Joust%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[103].props.rom",
+      "url": "https://archive.org/download/nes-roms/Jaws%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[108].props.rom",
+      "url": "https://archive.org/download/nes-roms/Kid%20Icarus%20%28USA%2C%20Europe%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[107].props.rom",
+      "url": "https://archive.org/download/nes-roms/Karate%20Kid%2C%20The%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[109].props.rom",
+      "url": "https://archive.org/download/nes-roms/Kirby%27s%20Adventure%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[110].props.rom",
+      "url": "https://archive.org/download/nes-roms/Kung-Fu%20Heroes%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[106].props.rom",
+      "url": "https://archive.org/download/nes-roms/Jurassic%20Park%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[111].props.rom",
+      "url": "https://archive.org/download/nes-roms/Labyrinth%20%28Japan%29%20%5Btrans%5D.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[112].props.rom",
+      "url": "https://archive.org/download/nes-roms/Laser%20Invasion%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[113].props.rom",
+      "url": "https://archive.org/download/nes-roms/Legend%20of%20Zelda%2C%20The%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[115].props.rom",
+      "url": "https://archive.org/download/nes-roms/Little%20Mermaid%2C%20The%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[114].props.rom",
+      "url": "https://archive.org/download/nes-roms/Lion%20King%2C%20The%20%28Europe%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[120].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mario%20Is%20Missing%21%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[119].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mario%20Bros.%20%28World%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[116].props.rom",
+      "url": "https://archive.org/download/nes-roms/Lode%20Runner%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[118].props.rom",
+      "url": "https://archive.org/download/nes-roms/Maniac%20Mansion%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[117].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mad%20Max%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[125].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mega%20Man%204%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[124].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mega%20Man%203%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[121].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mario%27s%20Time%20Machine%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[122].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mega%20Man%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[123].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mega%20Man%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[126].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mega%20Man%205%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[128].props.rom",
+      "url": "https://archive.org/download/nes-roms/Metal%20Gear%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[127].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mega%20Man%206%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[130].props.rom",
+      "url": "https://archive.org/download/nes-roms/Metroid%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[129].props.rom",
+      "url": "https://archive.org/download/nes-roms/Metal%20Storm%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[134].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ms.%20Pac-Man%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[131].props.rom",
+      "url": "https://archive.org/download/nes-roms/Might%20%26%20Magic%20-%20Secret%20of%20the%20Inner%20Sanctum%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[132].props.rom",
+      "url": "https://archive.org/download/nes-roms/Millipede%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[133].props.rom",
+      "url": "https://archive.org/download/nes-roms/Mother%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[135].props.rom",
+      "url": "https://archive.org/download/nes-roms/Nightmare%20on%20Elm%20Street%2C%20A%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[137].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ninja%20Gaiden%20II%20-%20The%20Dark%20Sword%20of%20Chaos%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[138].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ninja%20Gaiden%20III%20-%20The%20Ancient%20Ship%20of%20Doom%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[140].props.rom",
+      "url": "https://archive.org/download/nes-roms/Pac-Man%20%28USA%29%20%28Namco%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[136].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ninja%20Gaiden%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[139].props.rom",
+      "url": "https://archive.org/download/nes-roms/Overlord%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[143].props.rom",
+      "url": "https://archive.org/download/nes-roms/Paperboy%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[142].props.rom",
+      "url": "https://archive.org/download/nes-roms/Paperboy%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[141].props.rom",
+      "url": "https://archive.org/download/nes-roms/Pac-Mania%20%28USA%29%20%28Unl%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[145].props.rom",
+      "url": "https://archive.org/download/nes-roms/Pinball%20Quest%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[144].props.rom",
+      "url": "https://archive.org/download/nes-roms/Pinball%20%28World%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[149].props.rom",
+      "url": "https://archive.org/download/nes-roms/Power%20Blade%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[146].props.rom",
+      "url": "https://archive.org/download/nes-roms/Pirates%21%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[147].props.rom",
+      "url": "https://archive.org/download/nes-roms/Popeye%20%28World%29%20%28Rev%20A%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[150].props.rom",
+      "url": "https://archive.org/download/nes-roms/Predator%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[148].props.rom",
+      "url": "https://archive.org/download/nes-roms/Power%20Blade%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[154].props.rom",
+      "url": "https://archive.org/download/nes-roms/Rainbow%20Islands%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[155].props.rom",
+      "url": "https://archive.org/download/nes-roms/Rambo%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[151].props.rom",
+      "url": "https://archive.org/download/nes-roms/Prince%20of%20Persia%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[152].props.rom",
+      "url": "https://archive.org/download/nes-roms/Q-bert%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[153].props.rom",
+      "url": "https://archive.org/download/nes-roms/Rad%20Racer%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[160].props.rom",
+      "url": "https://archive.org/download/nes-roms/RoboCop%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[158].props.rom",
+      "url": "https://archive.org/download/nes-roms/River%20City%20Ransom%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[157].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ren%20%26%20Stimpy%20Show%2C%20The%20-%20Buckeroo%24%21%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[156].props.rom",
+      "url": "https://archive.org/download/nes-roms/Rampage%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[159].props.rom",
+      "url": "https://archive.org/download/nes-roms/Robin%20Hood%20-%20Prince%20of%20Thieves%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[161].props.rom",
+      "url": "https://archive.org/download/nes-roms/RoboCop%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[165].props.rom",
+      "url": "https://archive.org/download/nes-roms/Shinobi%20%28USA%29%20%28Unl%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[164].props.rom",
+      "url": "https://archive.org/download/nes-roms/Shadow%20of%20the%20Ninja%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[162].props.rom",
+      "url": "https://archive.org/download/nes-roms/RoboCop%203%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[163].props.rom",
+      "url": "https://archive.org/download/nes-roms/Section-Z%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[167].props.rom",
+      "url": "https://archive.org/download/nes-roms/Smash%20T.V.%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[170].props.rom",
+      "url": "https://archive.org/download/nes-roms/Star%20Wars%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[169].props.rom",
+      "url": "https://archive.org/download/nes-roms/Star%20Force%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[166].props.rom",
+      "url": "https://archive.org/download/nes-roms/Silver%20Surfer%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[168].props.rom",
+      "url": "https://archive.org/download/nes-roms/Snow%20Brothers%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[172].props.rom",
+      "url": "https://archive.org/download/nes-roms/Street%20Fighter%202010%20-%20The%20Final%20Fight%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[171].props.rom",
+      "url": "https://archive.org/download/nes-roms/Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[175].props.rom",
+      "url": "https://archive.org/download/nes-roms/Super%20Mario%20Bros.%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[174].props.rom",
+      "url": "https://archive.org/download/nes-roms/Super%20Mario%20Bros.%20%28World%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[173].props.rom",
+      "url": "https://archive.org/download/nes-roms/Super%20C%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[178].props.rom",
+      "url": "https://archive.org/download/nes-roms/Superman%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[177].props.rom",
+      "url": "https://archive.org/download/nes-roms/Super%20Pinball%20%28Japan%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[179].props.rom",
+      "url": "https://archive.org/download/nes-roms/Swamp%20Thing%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[176].props.rom",
+      "url": "https://archive.org/download/nes-roms/Super%20Mario%20Bros.%203%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[180].props.rom",
+      "url": "https://archive.org/download/nes-roms/Sword%20Master%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[185].props.rom",
+      "url": "https://archive.org/download/nes-roms/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20The%20Arcade%20Game%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[184].props.rom",
+      "url": "https://archive.org/download/nes-roms/Teenage%20Mutant%20Ninja%20Turtles%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[182].props.rom",
+      "url": "https://archive.org/download/nes-roms/TaleSpin%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[181].props.rom",
+      "url": "https://archive.org/download/nes-roms/Swords%20and%20Serpents%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[183].props.rom",
+      "url": "https://archive.org/download/nes-roms/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[187].props.rom",
+      "url": "https://archive.org/download/nes-roms/Terminator%202%20-%20Judgment%20Day%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[186].props.rom",
+      "url": "https://archive.org/download/nes-roms/Teenage%20Mutant%20Ninja%20Turtles%20III%20-%20The%20Manhattan%20Project%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[188].props.rom",
+      "url": "https://archive.org/download/nes-roms/Terminator%2C%20The%20%28USA%2C%20Europe%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[190].props.rom",
+      "url": "https://archive.org/download/nes-roms/Tetris%202%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[189].props.rom",
+      "url": "https://archive.org/download/nes-roms/Tetris%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[193].props.rom",
+      "url": "https://archive.org/download/nes-roms/Tiny%20Toon%20Adventures%202%20-%20Trouble%20in%20Wackyland%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[192].props.rom",
+      "url": "https://archive.org/download/nes-roms/Tiny%20Toon%20Adventures%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[191].props.rom",
+      "url": "https://archive.org/download/nes-roms/Time%20Lord%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[194].props.rom",
+      "url": "https://archive.org/download/nes-roms/Top%20Gun%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[195].props.rom",
+      "url": "https://archive.org/download/nes-roms/Total%20Recall%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[196].props.rom",
+      "url": "https://archive.org/download/nes-roms/Toxic%20Crusaders%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[199].props.rom",
+      "url": "https://archive.org/download/nes-roms/Twin%20Eagle%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[200].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ultima%20-%20Exodus%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[197].props.rom",
+      "url": "https://archive.org/download/nes-roms/Treasure%20Master%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[198].props.rom",
+      "url": "https://archive.org/download/nes-roms/Twin%20Cobra%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[201].props.rom",
+      "url": "https://archive.org/download/nes-roms/Ultimate%20Air%20Combat%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[202].props.rom",
+      "url": "https://archive.org/download/nes-roms/Uncharted%20Waters%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[204].props.rom",
+      "url": "https://archive.org/download/nes-roms/Wario%27s%20Woods%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[205].props.rom",
+      "url": "https://archive.org/download/nes-roms/Wayne%27s%20World%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[203].props.rom",
+      "url": "https://archive.org/download/nes-roms/Wacky%20Races%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[206].props.rom",
+      "url": "https://archive.org/download/nes-roms/Who%20Framed%20Roger%20Rabbit%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[208].props.rom",
+      "url": "https://archive.org/download/nes-roms/Wizards%20%26%20Warriors%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[210].props.rom",
+      "url": "https://archive.org/download/nes-roms/Wolverine%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[209].props.rom",
+      "url": "https://archive.org/download/nes-roms/Wizards%20%26%20Warriors%20III%20-%20Kuros...Visions%20of%20Power%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[207].props.rom",
+      "url": "https://archive.org/download/nes-roms/Willow%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[215].props.rom",
+      "url": "https://archive.org/download/nes-roms/Zombie%20Nation%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[211].props.rom",
+      "url": "https://archive.org/download/nes-roms/Xenophobe%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[214].props.rom",
+      "url": "https://archive.org/download/nes-roms/Zelda%20II%20-%20The%20Adventure%20of%20Link%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[212].props.rom",
+      "url": "https://archive.org/download/nes-roms/Yoshi%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[1].items[213].props.rom",
+      "url": "https://archive.org/download/nes-roms/Young%20Indiana%20Jones%20Chronicles%2C%20The%20%28USA%29.nes",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[4].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Arcade%27s%20Greatest%20Hits%20-%20The%20Atari%20Collection%201%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[2].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Alien%20vs.%20Predator%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[1].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Alien%203%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[0].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Aladdin%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[3].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Animaniacs%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[7].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Bahamut%20Lagoon%20%28ENG%29%20%23%20SNES.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[9].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Batman%20-%20Revenge%20of%20the%20Joker%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[5].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Arkanoid%20-%20Doh%20It%20Again%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[8].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ballz%203D%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[6].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Art%20of%20Fighting%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[12].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Battletoads%20in%20Battlemaniacs%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[10].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Batman%20Forever%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[11].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Batman%20Returns%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[14].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Beavis%20and%20Butt-head%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[13].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Battletoads%20%26%20Double%20Dragon%20-%20The%20Ultimate%20Team%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[16].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Brain%20Lord%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[15].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Bio%20Metal%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[18].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Breath%20of%20Fire%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[19].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Breath%20of%20Fire%20II%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[17].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Bram%20Stoker%27s%20Dracula%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[22].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Captain%20America%20and%20The%20Avengers%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[21].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Bust-A-Move%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[20].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Bugs%20Bunny%20-%20Rabbit%20Rampage%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[23].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Captain%20Commando%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[24].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Castlevania%20-%20Dracula%20X%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[25].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Chaos%20Seed.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[29].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Clay%20Fighter%20-%20Tournament%20Edition%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[28].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Clay%20Fighter%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[26].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Chessmaster%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[27].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Chrono%20Trigger%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[30].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Clay%20Fighter%202%20-%20Judgment%20Clay%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[34].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Cyber%20Knight.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[31].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Cliffhanger%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[32].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Clock%20Tower.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[33].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Contra%20III%20-%20The%20Alien%20Wars%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[39].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Demon%27s%20Crest%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[38].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Demolition%20Man%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[35].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Daffy%20Duck%20-%20The%20Marvin%20Missions%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[37].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Death%20and%20Return%20of%20Superman%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[36].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Darius%20Twin%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[41].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Dino%20City%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[44].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Donkey%20Kong%20Country%202%20-%20Diddy%27s%20Kong%20Quest%20%28USA%29%20%28En%2CFr%29%20%28Rev%201%29%20%28Virtual%20Console%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[42].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Donkey%20Kong%20Country%20%28USA%2C%20Europe%29%20%28Rev%202%29%20%28Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[40].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Desert%20Strike%20-%20Return%20to%20the%20Gulf%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[43].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Donkey%20Kong%20Country%20-%20Competition%20Cartridge%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[49].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Dragon%20Quest%201%20and%202%20%28ENG%29%20%23%20SNES.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[45].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Donkey%20Kong%20Country%203%20-%20Dixie%20Kong%27s%20Double%20Trouble%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[47].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Dragon%20-%20The%20Bruce%20Lee%20Story%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[48].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Dragon-Ball%20Z%20-%20Hyper%20Dimension%20%28ENG%29%20%23%20SNES.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[46].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Doom%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[50].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Dungeon%20Master%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[53].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Earthworm%20Jim%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[52].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Earthworm%20Jim%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[54].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/F-Zero%20%28USA%2C%20Europe%29%20%28Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[51].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Earthbound%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[58].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fantasy%20-%20Mystic%20Quest%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[59].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fantasy%20II%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[55].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Fatal%20Fury%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[57].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Fatal%20Fury%20Special%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[56].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Fatal%20Fury%202%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[60].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fantasy%20III%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[62].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fantasy%20V.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[63].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fantasy%206%20%28ENG%29%20%23%20SNES.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[61].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fantasy%204%20-%2010th%20Anniversary%20Edition%20%28ENG%29%20%23%20SNES.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[64].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fight%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[68].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Frogger%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[65].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fight%202%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[66].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Final%20Fight%203%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[67].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/First%20Samurai%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[69].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Front%20Mission%20-%20Gun%20Hazard%20%28ENG%29%20%23%20SNES.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[74].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Home%20Alone%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[70].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Goof%20Troop%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[71].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Gradius%20III%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[72].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Great%20Waldo%20Search%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[73].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Harvest%20Moon%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[77].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Hunt%20for%20Red%20October%2C%20The%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[78].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Hurricanes%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[75].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Home%20Alone%202%20-%20Lost%20in%20New%20York%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[76].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Hook%20%28U%29%20%2829252%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[79].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ignition%20Factor%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[82].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Incredible%20Hulk%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[83].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Indiana%20Jones%27%20Greatest%20Adventures%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[84].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Inspector%20Gadget%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[81].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Imperium%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[80].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Illusion%20of%20Gaia%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[88].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Jetsons%2C%20The%20-%20Invasion%20of%20the%20Planet%20Pirates%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[86].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/James%20Bond%20Jr%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[85].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Iron%20Commando.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[89].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Joe%20%26%20Mac%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[87].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Jet%20Pilot%20Rising.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[90].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Joe%20%26%20Mac%202%20-%20Lost%20in%20the%20Tropics%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[92].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Jungle%20Book%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[94].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Jurassic%20Park%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[93].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Jungle%20Strike%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[91].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Judge%20Dredd%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[98].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Kidou%20Butoden%20G-Gundam.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[96].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ken%20Griffey%20Jr.%20Presents%20Major%20League%20Baseball%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[99].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Killer%20Instinct%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[95].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Jurassic%20Park%20Part%202%20-%20The%20Chaos%20Continues%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[97].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Kid%20Klown%20in%20Crazy%20Chase%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[101].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Kirby%27s%20Avalanche%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[103].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Kirby%27s%20Dream%20Land%203%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[104].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Krusty%27s%20Super%20Fun%20House%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[102].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Kirby%27s%20Dream%20Course%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[100].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Kirby%20Super%20Star%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[108].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Lemmings%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[105].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Lagoon%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[107].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[106].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Last%20Action%20Hero%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[109].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Lemmings%202%20-%20The%20Tribes%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[114].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Lufia%20II%20-%20Rise%20of%20the%20Sinistrals%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[110].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Lethal%20Weapon%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[113].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Lufia%20%26%20The%20Fortress%20of%20Doom%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[111].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Lion%20King%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[112].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Looney%20Tunes%20B-Ball%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[117].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Madden%20NFL%20%2796%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[118].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Madden%20NFL%20%2797%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[116].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Madden%20NFL%20%2795%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[119].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Madden%20NFL%20%2798%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[115].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Madden%20NFL%20%2794%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[120].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Magic%20Sword%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[124].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mask%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[122].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mark%20Davis%27%20The%20Fishing%20Master%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[121].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mario%20is%20Missing%21%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[123].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Marvel%20Super%20Heroes%20-%20War%20of%20the%20Gems%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[126].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mega%20Man%20VII%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[127].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mega%20Man%20X%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[128].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mega%20Man%20X%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[125].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mechwarrior%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[129].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mega%20Man%20X%203%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[130].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Michael%20Jordan%20-%20Chaos%20in%20the%20Windy%20City%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[131].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mickey%20Mania%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[133].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mighty%20Morphin%20Power%20Rangers%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[134].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Fighting%20Edition%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[132].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Might%20and%20Magic%20III%20-%20Isles%20of%20Terra%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[135].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mighty%20Morphin%20Power%20Rangers%20-%20The%20Movie%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[137].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mortal%20Kombat%203%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[138].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mortal%20Kombat%20II%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[136].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Mortal%20Kombat%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[139].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ms.%20Pac-Man%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[141].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NBA%20Live%20%2795%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[140].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NBA%20Jam%20-%20Tournament%20Edition%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[144].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NBA%20Live%20%2798%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[142].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NBA%20Live%20%2796%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[143].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NBA%20Live%20%2797%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[145].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NBA%20Showdown%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[146].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NHL%20%2794%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[148].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NHL%20%2796%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[149].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NHL%20%2797%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[147].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NHL%20%2795%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[153].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Out%20of%20This%20World%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[152].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ninja%20Warriors%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[154].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pac-Attack%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[151].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ninja%20Gaiden%20Trilogy%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[150].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/NHL%20%2798%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[157].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pagemaster%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[158].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Paladin%27s%20Quest%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[156].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pac-Man%202%20-%20The%20New%20Adventures%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[159].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Paperboy%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[155].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pac-in-Time%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[163].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pinball%20Dreams%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[160].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/PGA%20Tour%2096%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[164].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pink%20Panther%20in%20Pink%20Goes%20to%20Hollywood%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[161].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Phantom%202040%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[162].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pilotwings%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[166].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pitfall%20-%20The%20Mayan%20Adventure%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[169].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Primal%20Rage%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[165].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pirates%20of%20Dark%20Water%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[168].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pokemon%20Stadium.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[167].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Pocky%20%26%20Rocky%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[173].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/R-Type%20III%20-%20The%20Third%20Lightning%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[174].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ren%20%26%20Stimpy%20Show%2C%20The%20-%20Buckeroos%21%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[170].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Prince%20of%20Persia%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[172].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Q-bert%203%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[171].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Prince%20of%20Persia%202%20-%20The%20Shadow%20%26%20The%20Flame%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[177].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ren%20%26%20Stimpy%20Show%2C%20The%20-%20Veediots%21%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[176].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ren%20%26%20Stimpy%20Show%2C%20The%20-%20Time%20Warp%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[175].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ren%20%26%20Stimpy%20Show%2C%20The%20-%20Fire%20Dogs%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[179].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Robocop%20Versus%20The%20Terminator%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[178].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Robocop%203%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[180].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Secret%20of%20Mana%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[184].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Sim%20City%202000%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[181].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Shaq%20Fu%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[182].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Silva%20Saga%20II%20-%20The%20Legend%20of%20Light%20and%20Darkness.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[183].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Sim%20City%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[187].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Speedy%20Gonzales%20-%20Los%20Gatos%20Bandidos%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[189].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Spider-Man%20%26%20Venom%20-%20Maximum%20Carnage%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[188].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Spider-Man%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[185].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Sim%20Earth%20-%20The%20Living%20Planet%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[186].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Space%20Invaders%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[193].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Star%20Ocean%20%23%20SNES.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[190].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Spider-Man%20and%20the%20X-Men%20in%20Arcade%27s%20Revenge%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[194].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Street%20Fighter%20Alpha%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[191].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Star%20Fox%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[192].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Star%20Fox%202%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[199].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Adventure%20Island%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[196].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Street%20Fighter%20II%20Turbo%20-%20Hyper%20Fighting%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[195].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Street%20Fighter%20II%20-%20The%20World%20Warrior%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[197].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Street%20Hockey%20%2795%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[198].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Stunt%20Race%20FX%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[203].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Bomberman%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[200].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Adventure%20Island%20II%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[202].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Bomberman%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[201].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Back%20to%20the%20Future%20Part%20II.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[204].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Castlevania%20IV%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[208].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Mario%20RPG%20-%20Legend%20of%20the%20Seven%20Stars%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[205].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Double%20Dragon%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[206].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Mario%20All-Stars%20%28U%29%20%5B%21%5D.smc",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[209].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Mario%20World%20%28USA%2C%20Europe%29%20%28Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[207].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Mario%20Kart%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[212].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Punch-Out%21%21%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[214].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Star%20Fox%20%28Super%20Weekend%20Competition%20Cartridge%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[210].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Mario%20World%202%20-%20Yoshi%27s%20Island%20%28U%29%20%28M3%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[213].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20R-Type%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[211].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Metroid%20%28USA%2C%20Europe%29%20%28En%2CJa%29%20%28Virtual%20Console%2C%20Classic%20Mini%2C%20Switch%20Online%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[218].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Street%20Fighter%20II%20-%20The%20New%20Challengers%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[216].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Star%20Wars%20-%20Return%20of%20the%20Jedi%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[215].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Star%20Wars%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[219].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tales%20of%20Phantasia.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[217].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Super%20Star%20Wars%20-%20The%20Empire%20Strikes%20Back%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[224].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tecmo%20Super%20Bowl%20III%20-%20Final%20Edition%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[220].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Taz-Mania%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[222].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tecmo%20Super%20Bowl%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[221].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tecmo%20Super%20Baseball%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[223].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tecmo%20Super%20Bowl%20II%20-%20Special%20Edition%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[229].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tetris%20Attack%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[225].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Teenage%20Mutant%20Ninja%20Turtles%20-%20Tournament%20Fighters%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[227].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tekken%202.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[226].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Teenage%20Mutant%20Ninja%20Turtles%20IV%20-%20Turtles%20in%20Time%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[228].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Terminator%202%20-%20Judgment%20Day%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[230].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Timecop%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[231].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tiny%20Toon%20Adventures%20-%20Buster%20Busts%20Loose%21%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[234].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Top%20Gear%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[232].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tiny%20Toon%20Adventures%20-%20Wacky%20Sports%20Challenge%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[233].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Tom%20%26%20Jerry%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[239].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ultimate%20Mortal%20Kombat%203%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[238].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Ultima%20-%20Runes%20of%20Virtue%20II%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[237].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Total%20Carnage%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[235].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Top%20Gear%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[236].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Top%20Gear%203000%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[244].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Wario%27s%20Woods%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[242].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Urban%20Strike%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[240].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Uncharted%20Waters%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[241].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Uniracers%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[243].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Spider-Man%20%26%20Venom%20-%20Separation%20Anxiety%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[245].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Weapon%20Lord%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[249].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/X-Men%20vs.%20Street%20Fighter.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[246].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Where%20in%20the%20World%20is%20Carmen%20Sandiego%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[248].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/X-Men%20-%20Mutant%20Apocalypse%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[247].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Wolfenstein%203D%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[0].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/007%20-%20The%20World%20is%20Not%20Enough%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[251].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Zombies%20Ate%20My%20Neighbors%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[2].items[250].props.rom",
+      "url": "https://archive.org/download/snes-romset-ultra-us/Yoshi%27s%20Cookie%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[1].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/1080%20Snowboarding%20%28JU%29%20%28M2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[2].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/AeroFighters%20Assault%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[4].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/All-Star%20Baseball%202001%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[3].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/AeroGauge%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[5].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Army%20Men%20-%20Air%20Combat%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[7].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Army%20Men%20-%20Sarge%27s%20Heroes%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[6].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Army%20Men%20-%20Sarge%27s%20Heroes%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[9].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Banjo-Kazooie%20%28U%29%20%28V1.0%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[12].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Bio%20F.R.E.A.K.S.%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[8].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Asteroids%20Hyper%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[11].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[10].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Banjo-Tooie%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[13].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Blast%20Corps%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[16].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Bomberman%20Hero%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[17].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/California%20Speed%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[14].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Bomberman%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[15].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Bomberman%2064%20-%20The%20Second%20Attack%21%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[19].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Castlevania%20-%20Legacy%20of%20Darkness%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[21].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Chameleon%20Twist%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[22].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Chopper%20Attack%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[20].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Chameleon%20Twist%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[18].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Castlevania%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[25].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Conker%27s%20Bad%20Fur%20Day%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[27].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Cruis%27n%20USA%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[26].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Cruis%27n%20Exotica%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[23].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Clay%20Fighter%20-%20Sculptor%27s%20Cut%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[24].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Clay%20Fighter%2063%201-3%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[30].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Donkey%20Kong%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[29].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Diddy%20Kong%20Racing%20%28U%29%20%28M2%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[31].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Doom%2064%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[28].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Cruis%27n%20World%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[32].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Dr.%20Mario%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[37].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Extreme-G%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[35].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Earthworm%20Jim%203D%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[33].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Duke%20Nukem%20-%20ZER0%20H0UR%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[36].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Excitebike%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[34].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Duke%20Nukem%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[41].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Fighter%27s%20Destiny%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[40].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Fighter%27s%20Destiny%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[42].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Fighting%20Force%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[39].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/F-ZERO%20X%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[38].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Extreme-G%20XG2%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[46].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Gex%203%20-%20Deep%20Cover%20Gecko%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[47].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Gex%2064%20-%20Enter%20the%20Gecko%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[44].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Frogger%202%20%28U%29%20%28Alpha%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[43].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Flying%20Dragon%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[45].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Gauntlet%20Legends%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[48].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/GoldenEye%20007%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[52].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Hey%20You%2C%20Pikachu%21%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[50].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Harvest%20Moon%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[51].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Hexen%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[49].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/GT%2064%20-%20Championship%20Edition%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[54].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/In-Fisherman%20Bass%20Hunter%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[53].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Hydro%20Thunder%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[56].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Jet%20Force%20Gemini%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[55].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Indiana%20Jones%20and%20the%20Infernal%20Machine%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[57].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Killer%20Instinct%20Gold%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[61].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Lode%20Runner%203-D%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[58].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Kirby%2064%20-%20The%20Crystal%20Shards%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[62].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Madden%20NFL%202002%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[59].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Legend%20of%20Zelda%2C%20The%20-%20Majora%27s%20Mask%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[60].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[63].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Major%20League%20Baseball%20Featuring%20Ken%20Griffey%20Jr.%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[64].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mario%20Golf%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[65].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mario%20Kart%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[66].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mario%20Party%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[67].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mario%20Party%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[70].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mission%20Impossible%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[69].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mega%20Man%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[72].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mortal%20Kombat%20Mythologies%20-%20Sub-Zero%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[68].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mario%20Party%203%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[71].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mortal%20Kombat%204%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[73].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Mortal%20Kombat%20Trilogy%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[76].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/New%20Tetris%2C%20The%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[77].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/NFL%20Blitz%202001%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[74].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Ms.%20Pac-Man%20-%20Maze%20Madness%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[75].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/NBA%20Jam%202000%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[82].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Paperboy%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[80].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Ogre%20Battle%2064%20-%20Person%20of%20Lordly%20Caliber%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[81].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Paper%20Mario%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[79].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Nuclear%20Strike%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[78].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Nightmare%20Creatures%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[83].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Perfect%20Dark%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[86].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Pokemon%20Snap%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[85].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Pokemon%20Puzzle%20League%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[87].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Pokemon%20Snap%20Station%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[84].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Pilotwings%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[91].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Quake%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[90].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Power%20Rangers%20-%20Lightspeed%20Rescue%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[88].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Pokemon%20Stadium%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[92].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Rampage%20-%20World%20Tour%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[89].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Pokemon%20Stadium%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[96].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Resident%20Evil%202%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[95].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Razor%20Freestyle%20Scooter%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[94].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Rayman%202%20-%20The%20Great%20Escape%20%28U%29%20%28M5%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[93].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Rampage%202%20-%20Universal%20Tour%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[97].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Road%20Rash%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[101].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Scooby-Doo%21%20-%20Classic%20Creep%20Capers%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[100].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/San%20Francisco%20Rush%20-%20Extreme%20Racing%20%28U%29%20%28M3%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[102].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Shadowgate%2064%20-%20Trials%20Of%20The%20Four%20Towers%20%28U%29%20%28M2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[99].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Rush%202%20-%20Extreme%20Racing%20USA%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[98].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/RR64%20-%20Ridge%20Racer%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[105].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/South%20Park%20Rally%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[106].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Space%20Invaders%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[103].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/South%20Park%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[107].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Spider-Man%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[104].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/South%20Park%20-%20Chef%27s%20Luv%20Shack%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[112].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Star%20Wars%20Episode%20I%20-%20Racer%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[111].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Star%20Wars%20Episode%20I%20-%20Battle%20for%20Naboo%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[109].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Star%20Wars%20-%20Rogue%20Squadron%20%28U%29%20%28M3%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[108].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Star%20Fox%2064%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[110].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Star%20Wars%20-%20Shadows%20of%20the%20Empire%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[116].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Super%20Smash%20Bros.%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[115].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Super%20Mario%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[113].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/StarCraft%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[117].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Tetrisphere%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[114].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Stunt%20Racer%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[121].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Tony%20Hawk%27s%20Pro%20Skater%203%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[122].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Top%20Gear%20Hyper%20Bike%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[118].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Tom%20Clancy%27s%20Rainbow%20Six%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[119].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Tony%20Hawk%27s%20Pro%20Skater%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[120].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Tony%20Hawk%27s%20Pro%20Skater%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[124].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Turok%202%20-%20Seeds%20of%20Evil%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[123].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Turok%20-%20Dinosaur%20Hunter%20%28U%29%20%28V1.2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[125].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Turok%203%20-%20Shadow%20of%20Oblivion%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[126].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Vigilante%208%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[127].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Vigilante%208%20-%202nd%20Offense%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[130].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Wipeout%2064%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[128].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Wave%20Race%2064%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[131].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Worms%20-%20Armageddon%20%28U%29%20%28M3%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[129].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Wetrix%20%28U%29%20%28M6%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[3].items[132].props.rom",
+      "url": "https://archive.org/download/nintendo-64-romset-usa/Yoshi%27s%20Story%20%28U%29%20%28M2%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[3].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Ace%20Combat%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[1].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/James%20Bond%20007%20-%20Nightfire%20%28U%29%20%28M3%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[4].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Advance%20Wars%20%28U%29%20%28V1.1%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[0].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/007%20-%20Everything%20or%20Nothing%20%28U%29%20%28M3%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[2].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Dr.%20Mario%20%26%20Puzzle%20League%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[5].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Altered%20Beast%20-%20Guardian%20of%20the%20Realms%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[9].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Army%20Men%20Advance%20%28U%29%20%28M5%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[6].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/American%20Bass%20Challenge%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[7].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Army%20Men%20-%20Operation%20Green%20%28U%29%20%28M5%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[8].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Army%20Men%20-%20Turf%20Wars%20%28U%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[14].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Batman%20-%20Vengeance%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[10].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Baldur%27s%20Gate%20-%20Dark%20Alliance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[12].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Banjo%20Pilot%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[11].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Banjo-Kazooie%20-%20Grunty%27s%20Revenge%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[13].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Batman%20-%20Rise%20of%20Sin%20Tzu%20%28U%29%20%28M3%29%20%5Bt1%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[17].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Bomberman%20Max%202%20-%20Red%20%28U%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[15].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Bionicle%20-%20Maze%20of%20Shadows%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[18].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Breath%20of%20Fire%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[16].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Bomberman%20Max%202%20-%20Blue%20%28U%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[19].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Breath%20of%20Fire%20II%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[23].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Cabela%27s%20Big%20Game%20Hunter%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[20].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Broken%20Sword%20-%20The%20Shadow%20of%20The%20Templars%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[22].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Bubble%20Bobble%20-%20Old%20%26%20New%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[24].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Castlevania%20-%20Aria%20of%20Sorrow%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[21].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Bruce%20Lee%20-%20Return%20of%20the%20Legend%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[29].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Donkey%20Kong%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[25].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Castlevania%20-%20Circle%20of%20the%20Moon%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[28].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Castlevania%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[27].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Bomberman%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[26].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Castlevania%20-%20Harmony%20of%20Dissonance%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[33].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Metroid%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[30].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Dr.%20Mario%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[34].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Pac-Man%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[32].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Metroid%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[31].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Excitebike%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[39].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Contra%20Advance%20-%20The%20Alien%20Wars%20EX%20%28U%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[38].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Zelda%20II%20-%20The%20Adventure%20of%20Link%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[37].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Xevious%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[36].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20The%20Legend%20of%20Zelda%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[35].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Classic%20NES%20Series%20-%20Super%20Mario%20Bros.%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[43].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/CT%20Special%20Forces%20%28U%29%20%28M6%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[44].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/CT%20Special%20Forces%203%20-%20Bioterror%20%28E%29%20%28M6%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[42].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Crazy%20Taxi%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[40].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Crash%20Bandicoot%20-%20The%20Huge%20Adventure%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[41].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Crash%20Bandicoot%202%20-%20N-Tranced%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[45].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/CT%20Special%20Forces%202%20-%20Back%20in%20The%20Trenches%20%28U%29%20%28M6%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[47].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Desert%20Strike%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[48].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/DK%20-%20King%20of%20Swing%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[49].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Donkey%20Kong%20Country%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[46].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Dead%20to%20Rights%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[54].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Double%20Dragon%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[51].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Donkey%20Kong%20Country%203%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[53].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Doom%20II%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[52].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Doom%20%28U%29%20%28M7%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[50].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Donkey%20Kong%20Country%202%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[58].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Duke%20Nukem%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[55].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Dragon%20Ball%20-%20Advanced%20Adventure%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[59].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Dungeons%20and%20Dragons%20-%20Eye%20of%20the%20Beholder%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[57].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Dragon%20Ball%20Z%20-%20Supersonic%20Warriors%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[56].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Dragon%20Ball%20Z%20-%20Buu%27s%20Fury%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[60].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/E.T.%20The%20Extra-Terrestrial%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[63].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/F-Zero%20GP%20Legend%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[62].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Earthworm%20Jim%202%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[64].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/F-Zero%20-%20Maximum%20Velocity%20%28UE%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[61].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Earthworm%20Jim%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[67].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Final%20Fantasy%20IV%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[68].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Final%20Fantasy%20Tactics%20Advance%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[66].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Final%20Fantasy%20I%20%26%20II%20-%20Dawn%20of%20Souls%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[65].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Fantastic%204%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[69].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Fire%20Emblem%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[72].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Gauntlet%20-%20Dark%20Legacy%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[74].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Incredible%20Hulk%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[73].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Grand%20Theft%20Auto%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[71].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Frogger%20Advance%20-%20The%20Great%20Quest%20%28U%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[70].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[75].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Inspector%20Gadget%20-%20Advance%20Mission%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[76].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Iridion%203D%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[78].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Jurassic%20Park%20III%20-%20Island%20Attack%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[79].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Jurassic%20Park%20III%20-%20Park%20Builder%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[77].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Iridion%20II%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[80].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Jurassic%20Park%20III%20-%20DNA%20Factor%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[83].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Kong%20-%20King%20of%20Atlantis%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[81].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Kirby%20-%20Nightmare%20in%20Dreamland%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[82].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Kirby%20%26%20The%20Amazing%20Mirror%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[84].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tomb%20Raider%20-%20The%20Prophecy%20%28U%29%20%28M5%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[88].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Looney%20Tunes%20-%20Back%20in%20Action%20%28U%29%20%28M5%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[89].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Fellowship%20of%20the%20Ring%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[85].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Legend%20of%20Spyro%2C%20The%20-%20A%20New%20Beginning%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[86].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20To%20The%20Past%20Four%20Swords%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[87].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Legend%20of%20Zelda%2C%20The%20-%20The%20Minish%20Cap%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[91].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Madden%20NFL%202005%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[93].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mario%20Golf%20-%20Advance%20Tour%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[94].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mario%20Kart%20Super%20Circuit%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[90].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Lord%20of%20the%20Rings%2C%20The%20-%20The%20Return%20of%20the%20King%20%28U%29%20%28M5%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[92].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mario%20%26%20Luigi%20-%20Superstar%20Saga%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[98].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mario%20vs.%20Donkey%20Kong%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[99].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Max%20Payne%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[96].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mario%20Pinball%20Land%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[97].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mario%20Tennis%20Advance%20-%20Power%20Tour%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[95].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mario%20Party%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[100].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Megaman%20Battle%20Network%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[103].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Megaman%20Zero%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[104].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Megaman%20Zero%202%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[102].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Megaman%20Battle%20Network%203%20-%20Blue%20Version%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[101].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Megaman%20Battle%20Network%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[107].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Men%20in%20Black%20-%20The%20Series%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[105].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Megaman%20Zero%203%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[109].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Metroid%20-%20Zero%20Mission%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[106].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Megaman%20Zero%204%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[108].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Metal%20Slug%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[112].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Midway%27s%20Greatest%20Arcade%20Hits%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[113].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mike%20Tyson%27s%20Boxing%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[114].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Monster%20Truck%20Madness%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[110].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Metroid%20Fusion%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[111].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Midnight%20Club%20Street%20Racing%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[117].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mortal%20Kombat%20-%20Tournament%20Edition%20%28U%29%20%28M5%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[116].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mortal%20Kombat%20-%20Deadly%20Alliance%20%28U%29%20%28M5%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[119].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Moto%20GP%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[115].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Monster%20Bass%20Fishing%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[118].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mortal%20Kombat%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[120].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Ms.%20Pac-Man%20-%20Maze%20Madness%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[124].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pac-Man%20Collection%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[121].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Mummy%2C%20The%20%28U%29%20%28M5%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[123].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Oddworld%20-%20Munch%27s%20Oddysee%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[122].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/NBA%20Jam%202002%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[128].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Phantasy%20Star%20Collection%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[125].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pac-Man%20Pinball%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[126].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pac-Man%20World%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[127].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Peter%20Pan%20-%20The%20Motion%20Picture%20Event%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[129].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pitfall%20-%20The%20Lost%20Expedition%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[131].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pokemon%20-%20Fire%20Red%20Version%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[132].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pokemon%20-%20Leaf%20Green%20Version%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[130].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pokemon%20-%20Emerald%20Version%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[133].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pokemon%20-%20Ruby%20Version%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[134].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pokemon%20-%20Sapphire%20Version%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[137].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Power%20Rangers%20-%20Dino%20Thunder%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[135].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pokemon%20Mystery%20Dungeon%20-%20Red%20Rescue%20Team%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[138].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Power%20Rangers%20-%20Ninja%20Storm%20%28U%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[139].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28U%29%20%28M3%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[136].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Pokemon%20Pinball%20-%20Ruby%20%26%20Sapphire%20%28U%29%20%28V1.0%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[144].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Reign%20of%20Fire%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[142].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Rapala%20Pro%20Fishing%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[140].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Punch%20King%20-%20Arcade%20Boxing%20%28U%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[143].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Rayman%203%20-%20Hoodlum%20Havoc%20%28U%29%20%28M3%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[141].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/R-Type%20III%20%28U%29.zip/",
+      "error": "HTTP 404"
+    },
+    {
+      "path": "categories[5].items[147].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Road%20Rash%20-%20Jailbreak%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[148].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Samurai%20Jack%20-%20The%20Amulet%20of%20Time%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[146].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/River%20City%20Ransom%20EX%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[149].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/SD%20Gundam%20Force%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[145].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Revenge%20of%20Shinobi%2C%20The%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[152].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Sim%20City%202000%20%28U%29%20%28M4%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[154].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Sonic%20Advance%202%20%28U%29%20%28M6%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[150].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Shining%20Force%20-%20Resurrection%20of%20the%20Dark%20Dragon%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[151].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Shining%20Soul%20II%20%28U%29.zip/",
+      "error": "HTTP 404"
+    },
+    {
+      "path": "categories[5].items[153].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Sonic%20Advance%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[157].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Spider-Man%20-%20Mysterio%27s%20Menace%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[158].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Spyro%20-%20Attack%20of%20the%20Rhynocs%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[159].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Spyro%20-%20Season%20of%20Ice%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[155].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Sonic%20Advance%203%20%28U%29%20%28M6%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[156].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Space%20Invaders%20%28U%29.zip/",
+      "error": "HTTP 404"
+    },
+    {
+      "path": "categories[5].items[160].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Spyro%202%20-%20Season%20of%20Flame%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[164].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Star%20Wars%20-%20Jedi%20Power%20Battles%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[161].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Star%20Wars%20-%20Episode%20II%20-%20Attack%20of%20The%20Clones%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[163].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Star%20Wars%20-%20Flight%20of%20the%20Falcon%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[162].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Star%20Wars%20Episode%20III%20-%20Revenge%20of%20the%20Sith%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[168].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Super%20Mario%20Advance%202%20-%20Super%20Mario%20World%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[165].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Star%20Wars%20-%20The%20New%20Droid%20Army%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[167].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Super%20Mario%20Advance%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[169].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Super%20Mario%20Advance%203%20-%20Yoshi%27s%20Island%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[166].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Star%20Wars%20Trilogy%20-%20Apprentice%20of%20The%20Force%20%28U%29%20%28M3%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[170].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Super%20Mario%20Advance%204%20-%20Super%20Mario%20Bros.%203%20%28U%29%20%28V1.1%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[171].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Super%20Monkey%20Ball%20Jr%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[172].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Super%20Street%20Fighter%20II%20Turbo%20-%20Revival%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[173].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Sword%20of%20Mana%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[174].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Teenage%20Mutant%20Ninja%20Turtles%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[179].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tiger%20Woods%20PGA%20Tour%202004%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[177].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Terminator%203%20-%20Rise%20of%20The%20Machines%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[178].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tetris%20Worlds%20%28U%29%20%5B%21%5D.zip/",
+      "error": "HTTP 404"
+    },
+    {
+      "path": "categories[5].items[176].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tekken%20Advance%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[175].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Teenage%20Mutant%20Ninja%20Turtles%202%20-%20Battle%20Nexus%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[184].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tom%20Clancy%27s%20Splinter%20Cell%20%28U%29%20%28M3%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[180].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tiny%20Toon%20Adventures%20-%20Scary%20Dreams%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[182].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tokyo%20Xtreme%20Racer%20Advance%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[181].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tiny%20Toon%20Adventures%20-%20Wacky%20Stackers%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[183].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Rainbow%20Six%20-%20Rogue%20Spear%20%28U%29%20%28M5%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[187].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tony%20Hawk%27s%20Pro%20Skater%203%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[185].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tony%20Hawk%27s%20American%20Sk8land%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[188].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tony%20Hawk%27s%20Pro%20Skater%204%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[186].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Tony%20Hawk%27s%20Pro%20Skater%202%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[189].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Wario%20Land%204%20%28UE%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[190].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Wing%20Commander%20-%20Prophecy%20%28U%29%20%5BhI%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[194].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/X-Men%20-%20The%20Official%20Game%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[193].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/X-Men%20-%20Reign%20of%20Apocalypse%20%28U%29%20%5B%21%5D.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[192].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Worms%20-%20World%20Party%20%28U%29%20%28M5%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[5].items[191].props.rom",
+      "url": "https://archive.org/download/gameboy-advance-romset-ultra-us/Wolfenstein%203D%20%28U%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[0].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Adventure%20Island%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[4].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Battle%20Arena%20Toshinden%20%28USA%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[3].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Avenging%20Spirit%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[1].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Adventure%20Island%20II%20-%20Aliens%20in%20Paradise%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[2].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Atomic%20Punk%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[8].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Castlevania%20-%20The%20Adventure%20%28USA%29%20%28Castlevania%20Anniversary%20Collection%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[5].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Bomberman%20GB%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[7].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Bubble%20Bobble%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[9].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Castlevania%20II%20-%20Belmont%27s%20Revenge%20%28USA%2C%20Europe%29%20%28Castlevania%20Anniversary%20Collection%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[6].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Bonk%27s%20Adventure%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[11].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Catrap%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[10].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Castlevania%20Legends%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[13].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Donkey%20Kong%20%28Japan%2C%20USA%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[14].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Donkey%20Kong%20Land%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[12].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Contra%20-%20The%20Alien%20Wars%20%28USA%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[16].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Donkey%20Kong%20Land%20III%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[15].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Donkey%20Kong%20Land%202%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[18].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/F1%20Pole%20Position%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[19].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Final%20Fantasy%20Adventure%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[17].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Elevator%20Action%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[21].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Final%20Fantasy%20Legend%20III%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[24].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Gargoyle%27s%20Quest%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[22].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Final%20Fantasy%20Legend%2C%20The%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[23].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Fortified%20Zone%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[20].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Final%20Fantasy%20Legend%20II%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[26].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Great%20Greed%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[25].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Go%21%20Go%21%20Tank%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[28].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Hunt%20for%20Red%20October%2C%20The%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[29].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Kid%20Icarus%20-%20Of%20Myths%20and%20Monsters%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[27].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Harvest%20Moon%20GB%20%28USA%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[34].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Legend%20of%20Zelda%2C%20The%20-%20Link%27s%20Awakening%20%28USA%2C%20Europe%29%20%28Rev%201%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[30].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/King%20of%20Fighters%20%2795%2C%20The%20%28USA%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[33].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Legend%20of%20the%20River%20King%20GB%20%28USA%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[31].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Kirby%27s%20Block%20Ball%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[32].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Kirby%27s%20Dream%20Land%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[36].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mega%20Man%20-%20Dr.%20Wily%27s%20Revenge%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[39].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mega%20Man%20IV%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[37].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mega%20Man%20II%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[38].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mega%20Man%20III%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[35].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mario%27s%20Picross%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[42].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mole%20Mania%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[44].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mr.%20Do%21%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[41].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mega%20Man%20V%20%28USA%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[43].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Motocross%20Maniacs%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[40].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mega%20Man%20IV%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[48].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Operation%20C%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[47].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Ninja%20Taro%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[46].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Ninja%20Gaiden%20Shadow%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[49].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Pokemon%20-%20Blue%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[45].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Mystical%20Ninja%20Starring%20Goemon%20%28USA%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[52].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Rolan%27s%20Curse%20II%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[51].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Ring%20Rage%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[50].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Pokemon%20-%20Red%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[53].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Samurai%20Shodown%20%28USA%2C%20Europe%29%20%28Beta%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[54].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Super%20Mario%20Land%202%20-%206%20Golden%20Coins%20%28USA%2C%20Europe%29%20%28Rev%201%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[59].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Tetris%202%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[58].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Teenage%20Mutant%20Ninja%20Turtles%20III%20-%20Radical%20Rescue%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[57].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Teenage%20Mutant%20Ninja%20Turtles%20II%20-%20Back%20from%20the%20Sewers%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[55].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Super%20R.C.%20Pro-Am%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[56].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Teenage%20Mutant%20Ninja%20Turtles%20-%20Fall%20of%20the%20Foot%20Clan%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[62].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Wario%20Land%20II%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[61].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Wario%20Blast%20featuring%20Bomberman%21%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[0].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/007%20-%20The%20World%20Is%20Not%20Enough%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[7].items[60].props.rom",
+      "url": "https://archive.org/download/game-boy-romset-ultra-us/Trax%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[1].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Aladdin%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[4].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Asteroids%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[2].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Alone%20in%20the%20Dark%20-%20The%20New%20Nightmare%20%28USA%29%20%28En%2CFr%2CEs%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[3].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Armorines%20-%20Project%20S.W.A.R.M.%20%28USA%2C%20Europe%29%20%28En%2CDe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[5].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Batman%20Beyond%20-%20Return%20of%20the%20Joker%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[6].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Bionic%20Commando%20-%20Elite%20Forces%20%28USA%2C%20Australia%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[9].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Bomberman%20Max%20-%20Red%20Challenger%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[7].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Black%20Bass%20-%20Lure%20Fishing%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[11].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Crystalis%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[10].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Conker%27s%20Pocket%20Tales%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[8].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Bomberman%20Max%20-%20Blue%20Champion%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[12].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Donkey%20Kong%20Country%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Sample%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[13].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Dracula%20-%20Crazy%20Vampire%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[15].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Dragon%20Warrior%20III%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[14].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Dragon%20Warrior%20I%20%26%20II%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[16].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Duke%20Nukem%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[18].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Gex%20-%20Enter%20the%20Gecko%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[17].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/E.T.%20-%20The%20Extra-Terrestrial%20-%20Escape%20from%20Planet%20Earth%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[21].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Grand%20Theft%20Auto%202%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[20].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Ghosts%27n%20Goblins%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[19].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Gex%203%20-%20Deep%20Pocket%20Gecko%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[26].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Indiana%20Jones%20and%20the%20Infernal%20Machine%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[25].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Heroes%20of%20Might%20and%20Magic%20II%20%28USA%29%20%28En%2CFr%2CDe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[23].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Harvest%20Moon%203%20GBC%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[24].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Heroes%20of%20Might%20and%20Magic%20%28USA%29%20%28En%2CFr%2CDe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[22].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Grand%20Theft%20Auto%202%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[31].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28USA%2C%20Australia%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[30].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Legend%20of%20Zelda%2C%20The%20-%20Link%27s%20Awakening%20DX%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[28].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Legend%20of%20the%20River%20King%202%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[27].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Kirby%20-%20Tilt%20%27n%27%20Tumble%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[29].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Legend%20of%20the%20River%20King%20GBC%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[34].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Mario%20Golf%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[36].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Mega%20Man%20Xtreme%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[35].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Mario%20Tennis%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[33].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Lion%20King%2C%20The%20-%20Simba%27s%20Mighty%20Adventure%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[32].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20%28USA%2C%20Australia%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[37].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Mega%20Man%20Xtreme%202%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[38].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Mortal%20Kombat%204%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[40].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Perfect%20Dark%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rumble%20Version%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[41].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Pitfall%20-%20Beyond%20the%20Jungle%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[39].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Pac-Man%20-%20Special%20Color%20Edition%20%28USA%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[43].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Pokemon%20-%20Gold%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[46].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Pong%20-%20The%20Next%20Level%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[45].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Pokemon%20Pinball%20%28USA%2C%20Australia%29%20%28Rumble%20Version%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[44].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Pokemon%20-%20Silver%20Version%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[42].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Pokemon%20-%20Crystal%20Version%20%28USA%2C%20Europe%29%20%28Rev%201%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[50].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Rampage%202%20-%20Universal%20Tour%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[48].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/R-Type%20DX%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[49].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Rampage%20-%20World%20Tour%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[51].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Rayman%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[47].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Q-bert%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[54].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Space%20Invaders%20%28USA%2C%20Europe%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[53].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Return%20of%20the%20Ninja%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[55].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Spider-Man%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[56].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Star%20Wars%20Episode%20I%20-%20Obi-Wan%27s%20Adventures%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[52].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Resident%20Evil%20%28World%29%20%28Proto%201%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[59].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Super%20Mario%20Bros.%20Deluxe%20%28USA%2C%20Europe%29%20%28Rev%201%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[58].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Street%20Fighter%20Alpha%20-%20Warriors%27%20Dreams%20%28USA%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[61].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Tom%20Clancy%27s%20Rainbow%20Six%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[60].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Tetris%20DX%20%28World%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[57].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Star%20Wars%20Episode%20I%20-%20Racer%20%28USA%2C%20Europe%29%20%28Rumble%20Version%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[63].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Tomb%20Raider%20-%20Curse%20of%20the%20Sword%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[62].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Tomb%20Raider%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Beta%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[64].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Tony%20Hawk%27s%20Pro%20Skater%202%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[66].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Turok%20-%20Rage%20Wars%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[65].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Tony%20Hawk%27s%20Pro%20Skater%203%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[69].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Wario%20Land%203%20%28World%29%20%28En%2CJa%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[68].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Turok%203%20-%20Shadow%20of%20Oblivion%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[71].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/X-Men%20-%20Mutant%20Academy%20%28USA%2C%20Europe%29%20%28Rev%201%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[70].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Wario%20Land%20II%20%28USA%2C%20Europe%29%20%28SGB%20Enhanced%29%20%28GB%20Compatible%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[67].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/Turok%203%20-%20Shadow%20of%20Oblivion%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[72].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/X-Men%20-%20Mutant%20Wars%20%28USA%2C%20Europe%29.zip",
+      "error": "HTTP 403"
+    },
+    {
+      "path": "categories[8].items[73].props.rom",
+      "url": "https://archive.org/download/gameboy-color-romset-ultra-us/X-Men%20-%20Wolverine%27s%20Rage%20%28USA%29.zip",
+      "error": "HTTP 403"
+    }
+  ]
+}

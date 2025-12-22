@@ -1,0 +1,25 @@
+{
+  "name": "feed-automation",
+  "version": "1.0.0",
+  "description": "Automated tools for managing and uploading feed data to Firebase",
+  "main": "upload-to-firebase.js",
+  "scripts": {
+    "upload": "node upload-to-firebase.js",
+    "validate": "node validate-rom-urls.js",
+    "fix-keys": "node fix-firebase-keys.js",
+    "help": "node upload-to-firebase.js --help"
+  },
+  "dependencies": {
+    "firebase": "^10.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "firebase",
+    "feed",
+    "upload",
+    "automation",
+    "nesrcade"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+} 

@@ -1,0 +1,23 @@
+{
+  "title": "Retro games",
+  "props": {},
+  "categories": [
+    {
+      "title": "Sports",
+      "longTitle": "Sports Games",
+      "description": "\n",
+      "items": [
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/6mpst4gnenugc30c1howk/tpc_original.nes?rlkey=zuvirqsqt32w54jw2rfhzcmli&dl=0"
+          },
+          "type": "nes",
+          "title": "Techmo Superbowl ",
+          "longTitle": "Techmo Superbowl ",
+          "added": 1700093977403
+        }
+      ]
+    }
+  ],
+  "longTitle": "Retro games"
+}
